@@ -17,10 +17,10 @@ R packages developed by the Central Statistical Bureau of Latvia:
 - [surveyplanning](https://csblatvia.github.io/surveyplanning/) [![CRAN version](http://www.r-pkg.org/badges/version/surveyplanning "CRAN version")](https://cran.r-project.org/package=surveyplanning)
 
 
-# Statistics
+# Statistics and Data
 
-- [Statistics](https://www.csb.gov.lv/en/statistics)
-- [Statistics data base](http://data.csb.gov.lv/pxweb/en/)
+- [Statistics webpage](https://www.csb.gov.lv/en/statistics)
+- [Statistics database](http://data.csb.gov.lv/pxweb/en/)
 - [Open data](https://data.gov.lv/dati/eng/dataset?organization=csb)
 
 
