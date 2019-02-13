@@ -7,8 +7,8 @@ Welcome to the GitHub repository of the [Central Statistical Bureau of Latvia](h
 
 R packages developed by the Central Statistical Bureau of Latvia:
 
-- [vardpoor](https://csblatvia.github.io/vardpoor/)
-- [surveyplanning](https://csblatvia.github.io/surveyplanning/)
+- [vardpoor](https://csblatvia.github.io/vardpoor/) [![CRAN version](http://www.r-pkg.org/badges/version/vardpoor "CRAN version")](https://cran.r-project.org/package=vardpoor)
+- [surveyplanning](https://csblatvia.github.io/surveyplanning/) [![CRAN version](http://www.r-pkg.org/badges/version/surveyplanning "CRAN version")](https://cran.r-project.org/package=surveyplanning)
 
 
 # Contacts
