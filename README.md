@@ -1,9 +1,3 @@
----
-output: 
-  html_document: 
-    self_contained: no
----
-
 Welcome to the GitHub repository of the [Central Statistical Bureau of Latvia](http://www.csb.gov.lv/en)!
 
 
