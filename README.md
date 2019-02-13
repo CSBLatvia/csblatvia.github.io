@@ -1,3 +1,9 @@
+---
+output: 
+  html_document: 
+    self_contained: no
+---
+
 Welcome to the GitHub repository of the [Central Statistical Bureau of Latvia](http://www.csb.gov.lv/en)!
 
 
@@ -9,6 +15,13 @@ R packages developed by the Central Statistical Bureau of Latvia:
 
 - [vardpoor](https://csblatvia.github.io/vardpoor/)
 - [surveyplanning](https://csblatvia.github.io/surveyplanning/)
+
+
+# Statistics
+
+- [Statistics](https://www.csb.gov.lv/en/statistics)
+- [Statistics data base](http://data.csb.gov.lv/pxweb/en/)
+- [Open data](https://data.gov.lv/dati/eng/dataset?organization=csb)
 
 
 # Contacts
