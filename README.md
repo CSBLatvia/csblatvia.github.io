@@ -1,9 +1,7 @@
-# CSB Latvia GitHub Repository
-
 Welcome to the GitHub repository of the [Central Statistical Bureau of Latvia](http://www.csb.gov.lv/en)!
 
 
-## R Packages
+# R Packages
 
 R packages developed by the Central Statistical Bureau of Latvia:
 
@@ -11,7 +9,7 @@ R packages developed by the Central Statistical Bureau of Latvia:
 - [surveyplanning](https://csblatvia.github.io/surveyplanning/)
 
 
-## Contacts
+# Contacts
 
 - [About the organisation](https://www.csb.gov.lv/en/about-us/contacts-and-information-for-media/about-organisation)
 - [Twitter](https://twitter.com/csb_latvia)
