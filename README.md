@@ -24,5 +24,3 @@ R packages developed by the Central Statistical Bureau of Latvia:
 - [Twitter](https://twitter.com/csb_latvia)
 - [Facebook](https://www.facebook.com/csplatvija)
 - [Youtube](https://www.youtube.com/channel/UCR194vmkemvORsqlXO1JJtw)
-
-[![Statistikai 100](Statistikai100_epasta_paraugam.png)](https://www.csb.gov.lv/lv/statistika/statistikai-100)
