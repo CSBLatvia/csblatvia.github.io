@@ -15,6 +15,7 @@ R packages developed by the Central Statistical Bureau of Latvia:
 
 - [Statistics webpage](https://www.csb.gov.lv/en/statistics)
 - [Statistics database](http://data.csb.gov.lv/pxweb/en/)
+- [Data visualisation tools](https://www.csb.gov.lv/en/statistika/datu-vizualizacijas-riki)
 - [Open data](https://data.gov.lv/dati/eng/dataset?organization=csb)
 
 
