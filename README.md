@@ -9,6 +9,8 @@ R packages developed by the Central Statistical Bureau of Latvia:
 
 - [vardpoor](https://csblatvia.github.io/vardpoor/) [![CRAN version](http://www.r-pkg.org/badges/version/vardpoor "CRAN version")](https://cran.r-project.org/package=vardpoor)
 - [surveyplanning](https://csblatvia.github.io/surveyplanning/) [![CRAN version](http://www.r-pkg.org/badges/version/surveyplanning "CRAN version")](https://cran.r-project.org/package=surveyplanning)
+- [surveyweighting](https://csblatvia.github.io/surveyweighting/) [![CRAN version](http://www.r-pkg.org/badges/version/surveyweighting "CRAN version")](https://cran.r-project.org/package=surveyweighting)
+
 
 
 # Statistics and Data
@@ -25,3 +27,4 @@ R packages developed by the Central Statistical Bureau of Latvia:
 - [Twitter](https://twitter.com/csb_latvia)
 - [Facebook](https://www.facebook.com/csplatvija)
 - [Youtube](https://www.youtube.com/channel/UCR194vmkemvORsqlXO1JJtw)
+- [LinkedIn](https://www.linkedin.com/company/central-statistical-bureau-of-latvia/)
